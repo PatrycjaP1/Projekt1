@@ -1,5 +1,7 @@
 # Projekt1
 
+Zakres BMI:
+
 Dla osób dorosłych wartość BMI wskazuje na:
 
 poniżej 16 - wygłodzenie
