@@ -1,2 +1,1 @@
-# Projekt1 
-cos
+BMI- po co zostało stworzone.
