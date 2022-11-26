@@ -28,7 +28,7 @@ poniżej 16 - wygłodzenie
 powyżej 40.0 - otyłość skrajną
 
 
-Ryzyko chorób towarzyszących otyłości
+Ryzyko chorób towarzyszących otyłości:
 
 wygłodzenie,wychudzenie,niedowaga- minimalne ale zwiększony poziom wystąpienia innych problemów zdrowotnych
 
