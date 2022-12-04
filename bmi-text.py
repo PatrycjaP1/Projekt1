@@ -1,8 +1,6 @@
 import pandas as pd
 
-tabela = pd.read_excel('c:/Users/Natalia/BMI.xlsx')
-
-print(tabela)
+tabela = pd.read_excel('BMI.xlsx')
 
 pomiary = tabela.iloc
 for osoba in pomiary:
