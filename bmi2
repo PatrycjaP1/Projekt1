@@ -1,1 +1,4 @@
-160.0 , 50.0 , 19.531249999999996 , pożądana masa ciała , minimalne ryzyko chorób związanych z otyłością
+imie,wzrost,waga,bmi,kategoria,ryzyko
+ola,170.0,50.0,17.301038062283737,niedowaga,minimalne ryzyko chorób związnych z otyłością,ale zwiększony poziom wystąpienia innych chorób zdrowotnych
+kasia,150.0,80.0,35.55555555555556,otyłość drugiego stopnia,bardzo wysokie ryzyko chorób związanych z otyłością
+basia,180.0,50.0,15.432098765432098,wygłodzenie,minimalne ryzyko chorób związnych z otyłością,ale zwiększony  poziom wystąpienia innych chorób zdrowotnych

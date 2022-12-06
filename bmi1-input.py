@@ -3,7 +3,7 @@ plik_zapis = open('bmi2', 'wt', encoding='utf-8')
 i = 0
 c = input("jednostki imperialne(cale,funty) naciśnij 'i', jednostki  metryczne(cm,kg) naciśnij 'm'")
 
-
+print("imie"",""wzrost"",""waga"",""bmi"",""kategoria"",""ryzyko", file=plik_zapis)
 def BMI(wzrost, waga):
     if c == "m":
         bmi = waga / ((wzrost / 100) ** 2)
@@ -38,11 +38,12 @@ koniec = False
 while not koniec:
     a = int(input("Podaj ilość obserwacji, które chcesz wykonać:"))
     for i in range(0, a):
+        imie = str(input("podaj imie:"))
         wzrost = float(input("Podaj swój wzrost :"))
         waga = float(input("Podaj swoją wagę :"))
         kategoria, ryzyko, bmi = BMI(wzrost, waga)
         print(bmi, kategoria)
-        print(wzrost, ",", waga, ",", bmi, ",", kategoria, ",", ryzyko, file=plik_zapis)
+        print(imie,wzrost,waga,bmi,kategoria,ryzyko,file=plik_zapis,sep="," )
     print("Czy chcesz dodać kolejne obserwacje:(odpowiedz tak lub nie)")
     kolejne = input()
     if kolejne == "nie":
