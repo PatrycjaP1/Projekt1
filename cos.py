@@ -7,11 +7,11 @@ bmi = pd.read_csv("bmi2")
 
 g = sns.catplot(
     data = bmi, kind="bar",
-hue="kategoria",
+hue = "kategoria",
   # errorbar = "sd",
     x="imie", y="bmi",
     palette="dark", alpha=.6,
-   height=6
+height=6
 )
 g.despine(left=True)
 g.set_axis_labels("Osoba","Wartość Bmi")

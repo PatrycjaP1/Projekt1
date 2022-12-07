@@ -114,7 +114,8 @@
       <workItem from="1670071024214" duration="19000" />
       <workItem from="1670071873763" duration="402000" />
       <workItem from="1670353990606" duration="10791000" />
-      <workItem from="1670366752214" duration="458000" />
+      <workItem from="1670366752214" duration="1335000" />
+      <workItem from="1670399840511" duration="1166000" />
     </task>
     <servers />
   </component>
@@ -134,8 +135,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Projekt1$wykres.coverage" NAME="wykres Coverage Results" MODIFIED="1670354818110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Projekt1$cos.coverage" NAME="cos Coverage Results" MODIFIED="1670367161484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projekt1$cos.coverage" NAME="cos Coverage Results" MODIFIED="1670400992668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Projekt1$bmi_input.coverage" NAME="bmi-input Coverage Results" MODIFIED="1670061969072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/pythonProject3" />
-    <SUITE FILE_PATH="coverage/Projekt1$bmi1_input.coverage" NAME="bmi1-input Coverage Results" MODIFIED="1670366875707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projekt1$bmi1_input.coverage" NAME="bmi1-input Coverage Results" MODIFIED="1670400953018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
