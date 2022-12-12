@@ -1,6 +1,7 @@
 Grupa:Natalia Kordylewicz, Natalia Janas, Natalia Krawczyk, Patrycja Połentek
 
 Program składa się z 3 części:
+
 1.BMI – text – program liczący BMI po zaimportowaniu tabeli z pomiarami z 
 pliku tekstowego.
 
