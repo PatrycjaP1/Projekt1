@@ -1,9 +1,12 @@
 Grupa:Natalia Kordylewicz, Natalia Janas, Natalia Krawczyk, Patrycja Połentek
+
 Program składa się z 3 części:
 1.BMI – text – program liczący BMI po zaimportowaniu tabeli z pomiarami z 
 pliku tekstowego.
+
 2.BMI – input - program liczący BMI po wpisaniu wartości przez użytkownika
 w konsoli. 
+
 3.BMI – charts – program pobiera wyliczone dane zapisane w pliku tekstowym i wykonuje ich wizualizacje.
 
 BMI, czyli wskaźnik masy ciała , współczynnik powstały przez podzielenie masy ciała podanej w kilogramach przez kwadrat wysokości podanej w metrach. 
