@@ -1,13 +1,9 @@
 imie,wzrost,waga,bmi,kategoria
-Ola,179.0,44.0,13.73240535563809,wygłodzenie
-Marcin,190.0,66.0,18.282548476454295,niedowaga
-Olek,170.0,88.0,30.449826989619382,otyłość pierwszego stopnia
-Asia,172.0,66.0,22.30935640886966,pożądana masa ciała
-Adam,193.0,82.0,22.014013799028163,pożądana masa ciała
-Ala,154.0,44.0,18.55287569573284,pożądana masa ciała
-Jan,199.0,60.0,15.1511325471579,wygłodzenie
-Ola,165.0,87.0,31.95592286501378,otyłość pierwszego stopnia
-Teresa,166.0,78.0,28.305995064595734,nadwaga
-Maciej,183.0,65.0,19.409358296754156,pożądana masa ciała
-Filip,189.0,60.0,16.79684219366759,wychudzenie
-Jolanta,165.0,45.0,16.528925619834713,wychudzenie
+ola,150.0,60.0,26.666666666666668,nadwaga
+kasia,190.0,90.0,24.930747922437675,pożądana masa ciała
+iza,140.0,70.0,35.71428571428572,otyłość drugiego stopnia
+ala,160.0,50.0,19.531249999999996,pożądana masa ciała
+lena,180.0,50.0,15.432098765432098,wygłodzenie
+maja,160.0,90.0,35.15624999999999,otyłość drugiego stopnia
+hania,150.0,44.0,19.555555555555557,pożądana masa ciała
+laura,170.0,50.0,17.301038062283737,niedowaga
